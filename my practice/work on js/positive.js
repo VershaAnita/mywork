@@ -1,5 +1,5 @@
-const number(4);
-const number=(prompt("Enter a number:"));
+
+const number=12;
 //chek if number is greater than 0
 if (number>0){
     console.log("The number is positive");
